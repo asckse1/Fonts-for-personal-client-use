@@ -18,5 +18,8 @@
         "RAW_Color_1": "#00ff00",
         "RAW_Color_2": "#00ff00"
     },
+    "background":{
+        "url": "https://i.imgur.com/KRIPrP7.jpeg"
+    },
     "spec": 2
 }
