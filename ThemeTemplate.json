@@ -19,7 +19,9 @@
         "RAW_Color_2": "#636f70"
     },
     "background":{
-        "url": "https://i.imgur.com/KRIPrP7.jpeg"
+        "url": "https://i.imgur.com/KRIPrP7.jpeg",
+        "blur": "15",
+        "alpha": "150"
     },
     "spec": 2
 }
