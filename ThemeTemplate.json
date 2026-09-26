@@ -1,27 +1,25 @@
 {
-    "name": "Theme_name",
-    "description": "Theme_description",
-    "authors": [
-        {
-            "name": "Author"
-        }
-    ],
-    "semanticColors": {
-        "Semantic_color_1": [
-            "#636f70"
-        ],
-        "Semantic_color_2": [
-            "#636f70"
-        ]
-    },
-    "rawColors": {
-        "RAW_Color_1": "#636f70",
-        "RAW_Color_2": "#636f70"
-    },
-    "background":{
-        "url": "https://i.imgur.com/KRIPrP7.jpeg",
-        "blur": "25",
-        "alpha": "100"
-    },
-    "spec": 2
+  "name": "Link Click Revenge Theme",
+  "description": "Custom client theme featuring Lu Guang and Cheng Xiaoshi",
+  "authors": [
+    {
+      "name": "Author"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#1a2223"],
+    "BACKGROUND_SECONDARY": ["#253032"],
+    "TEXT_NORMAL": ["#636f70"],
+    "TEXT_MUTED": ["#4a5455"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#1a2223",
+    "PRIMARY_700": "#253032"
+  },
+  "background": {
+    "url": "https://i.imgur.com/KRIPrP7.jpeg",
+    "blur": 0.3,
+    "alpha": 0.6
+  },
+  "spec": 2
 }
