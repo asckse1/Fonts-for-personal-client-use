@@ -8,15 +8,15 @@
     ],
     "semanticColors": {
         "Semantic_color_1": [
-            "#00ff00"
+            "#636f70"
         ],
         "Semantic_color_2": [
-            "#00ff00"
+            "#636f70"
         ]
     },
     "rawColors": {
-        "RAW_Color_1": "#00ff00",
-        "RAW_Color_2": "#00ff00"
+        "RAW_Color_1": "#636f70",
+        "RAW_Color_2": "#636f70"
     },
     "background":{
         "url": "https://i.imgur.com/KRIPrP7.jpeg"
