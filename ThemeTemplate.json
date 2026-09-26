@@ -20,8 +20,8 @@
     },
     "background":{
         "url": "https://i.imgur.com/KRIPrP7.jpeg",
-        "blur": "0.3",
-        "alpha": "0.4"
+        "blur": "25",
+        "alpha": "60"
     },
     "spec": 2
 }
