@@ -21,7 +21,7 @@
     "background":{
         "url": "https://i.imgur.com/KRIPrP7.jpeg",
         "blur": "25",
-        "alpha": "60"
+        "alpha": "100"
     },
     "spec": 2
 }
