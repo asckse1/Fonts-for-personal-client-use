@@ -1,0 +1,27 @@
+{
+  "name": "Custom Ported Theme",
+  "description": "Ported theme with custom font and background",
+  "author": "User",
+  "spec": 3,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#1e1e2e00", "#ffffff00"],
+    "BACKGROUND_SECONDARY": ["#181825c0", "#f2f2f7c0"],
+    "BACKGROUND_SECONDARY_ALT": ["#11111bc0", "#e5e5eac0"],
+    "BACKGROUND_TERTIARY": ["#11111bc0", "#e5e5eac0"],
+    "BACKGROUND_FLOATING": ["#11111be0", "#f2f2f7e0"],
+    "TEXT_NORMAL": ["#cdd6f4", "#1c1c1e"],
+    "TEXT_MUTED": ["#a6adc8", "#8e8e93"],
+    "BRAND_EXPERIMENT": ["#b4befe", "#5856d6"]
+  },
+  "rawColors": {},
+  "background": {
+    "url": "https://i.imgur.com/KRIPrP7.jpeg",
+    "blur": 0,
+    "alpha": 1.0
+  },
+  "fonts": {
+    "primary": {
+      "url": "https://github.com"
+    }
+  }
+}
