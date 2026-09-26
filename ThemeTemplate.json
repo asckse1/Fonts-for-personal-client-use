@@ -9,8 +9,8 @@
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#1a2223"],
     "BACKGROUND_SECONDARY": ["#253032"],
-    "TEXT_NORMAL": ["#636f70"],
-    "TEXT_MUTED": ["#4a5455"]
+    "TEXT_NORMAL": ["101010"],
+    "TEXT_MUTED": ["#000000"]
   },
   "rawColors": {
     "PRIMARY_600": "#1a2223",
