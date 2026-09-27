@@ -1,0 +1,22 @@
+{
+  "name": "SAO UI Font",
+  "fontMap": {
+    "ggsans-Normal": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-Medium": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-Semibold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-Bold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "NotoSans-Normal": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "NotoSans-Medium": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "NotoSans-Bold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf",
+    "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/1539469890820505680/1553615916359614555/SAOWelcomeTT-Regular.ttf"
+  }
+}
